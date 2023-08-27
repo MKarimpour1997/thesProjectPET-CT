@@ -1,2 +1,2 @@
-# mythesproject
-This repo is created by Mohammad Karimpour
+# PET/CT project
+This repo was created by Mohammad Karimpour
