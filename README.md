@@ -13,3 +13,6 @@ Convolutional neural networks have the capability of not only classifying images
 
 ![Class activation map figure](https://github.com/MKarimpour1997/thesProjectPET-CT/assets/131992544/048fecd6-90b2-446e-877c-30cdd24f4613)
 Figure 2. The convolutional neural network design for lung cancer localization
+
+
+for more reference: https://github.com/nedatghd/Lung-Cancer-Diagnosis-from-2D-18F---PET-CT-Images
